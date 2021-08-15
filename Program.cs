@@ -10,7 +10,7 @@ namespace forfile
             if (args.Length < 2)
             {
                 Console.WriteLine("Not enought parameters\nforfile pattern [params]");
-                Console.WriteLine("Use <FILE> and <FILENAME> to insert filename w/wo extension into the new name");
+                Console.WriteLine("Use <FILE> and <FILENAME> to insert filename w/wo extension into the command");
                 return;
             }
 
